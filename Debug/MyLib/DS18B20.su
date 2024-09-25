@@ -1,0 +1,5 @@
+../MyLib/DS18B20.c:12:6:Set_Pin_Output	40	static
+../MyLib/DS18B20.c:22:6:Set_Pin_Input	40	static
+../MyLib/DS18B20.c:31:9:DS18B20_Start	16	static
+../MyLib/DS18B20.c:49:6:DS18B20_Write	24	static
+../MyLib/DS18B20.c:79:9:DS18B20_Read	16	static
